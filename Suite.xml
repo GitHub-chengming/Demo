@@ -1,0 +1,8 @@
+<suite name="seleniumcn.cn.demo">
+	<test name="test_seleniumcn">
+		<classes>
+			<class name ="cn.seleniumcn.HelloWordWebdriverTestNG"/>
+			<class name ="cn.seleniumcn.HelloWordWebdriverTestNG_fail"/>
+		</classes>
+	</test>
+</suite>
